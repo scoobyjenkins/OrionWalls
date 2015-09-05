@@ -18,23 +18,17 @@
 <resources>
 
     <string-array name="wallpapers" translatable="false">
-        <item>customworx1</item>
-        <item>customworx2</item>
-        <item>customworx3</item>
-        <item>customworx4</item>
-        <item>customworx5</item>
-        <item>customworx6</item>
-        <item>jessesmith1</item>
-        <item>jessesmith2</item>
-        <item>jessesmith3</item>
-        <item>jessesmith4</item>
-        <item>jessesmith5</item>
-        <item>jessesmith6</item>
-        <item>jessesmith7</item>
-        <item>jessesmith8</item>
-        <item>jessesmith9</item>
-        <item>jessesmith10</item>
-        <item>jessesmith11</item>
+        <item>Aqua</item>
+        <item>Blue</item>
+        <item>Collide</item>
+        <item>Curves</item>
+	<item>Material</item>
+        <item>NeolEffect</item>
+        <item>NewGen</item>
+        <item>PlanetOrion</item>
+        <item>Prism</item>
+        <item>Simple</item>
+        <item>Smoke</item>
     </string-array>
 
 </resources>
