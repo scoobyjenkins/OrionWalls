@@ -1,7 +1,4 @@
-.gradle
-local.properties
-.idea
-.DS_Store
-*.iml
-build/*
-app/build/*
+.classpath
+.project
+bin/
+gen/
