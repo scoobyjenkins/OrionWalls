@@ -17,28 +17,28 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>Aqua</item>
-        <item>Blue</item>
-        <item>Collide</item>
-        <item>Curves</item>
-        <item>NeolEffect</item>
-        <item>NewGen</item>
-        <item>PlanetOrion</item>
-        <item>Prism</item>
-        <item>Simple</item>
-        <item>Smoke</item>
+        <item>tipsy_n_beer</item>
+        <item>tipsy_n_beer_garden</item>
+        <item>tipsy_n_disco</item>
+        <item>tipsy_n_hangover</item>
+        <item>tipsy_n_lights_out</item>
+        <item>tipsy_n_on_ice</item>
+        <item>tipsy_n_pub_bathroom_tile</item>
+        <item>tipsy_n_pub_carpet</item>
+        <item>tipsy_n_pub_seat</item>
+        <item>tipsy_n_pub_wall</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Aqua</item>
-        <item>Blue</item>
-        <item>Collide</item>
-        <item>Curves</item>
-        <item>NeolEffect</item>
-        <item>NewGen</item>
-        <item>PlanetOrion</item>
-        <item>Prism</item>
-        <item>Simple</item>
-        <item>Smoke</item>
+        <item>tipsy_n_beer</item>
+        <item>tipsy_n_beer_garden</item>
+        <item>tipsy_n_disco</item>
+        <item>tipsy_n_hangover</item>
+        <item>tipsy_n_lights_out</item>
+        <item>tipsy_n_on_ice</item>
+        <item>tipsy_n_pub_bathroom_tile</item>
+        <item>tipsy_n_pub_carpet</item>
+        <item>tipsy_n_pub_seat</item>
+        <item>tipsy_n_pub_wall</item>
     </string-array>
 </resources>
